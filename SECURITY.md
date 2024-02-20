@@ -2,20 +2,18 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+> [!NOTE]
+> Placeholder for now. Will update on projects were this is relevant!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.1.x   | :accessibility:    |
+| 5.0.x   | 🚮                 |
+| 4.0.x   | 🉑                 |
+| < 4.0   | ☑️                 |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you se vulnerability send a pull request or message me!
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+You can send me an email. If Vulnerability is disclosed or fixed, it will be updated!
