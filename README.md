@@ -1,28 +1,10 @@
-# Placeholder
+# Python Turtles
 
 > [!NOTE]
-> Welcome to this project!
-> Want to contribute? Check the .\Contribute file.
+> Welcome!
+> One of my first or Python projects i think!
 
-## About the project
+## First python Turtles
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I changed some code, some beginner mistakes, it's still pretty ruff. But it works. I think it was atleast 3 years ago i made this today is 02-20-2024.
 
-### Future for the project
-
-    1. Placeholder
-        - Placeholder
-            - Placeholder
-            
-    2. Placeholder
-        - Placeholder
-            - Placeholder
-            
-    3. Placeholder
-        - Placeholder
-            - Placeholder
-                - Placeholder
-
-### Future
-
-> Lorem.
